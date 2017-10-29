@@ -3,7 +3,7 @@
 ## Clases
 
 - [Presentacion de la asignatura](/clases/2017-10-23/2017-10-23.md)
-- [Intro a Git y la terminal](/clases/2017-10-23/2017-10-30.md)
+- [Intro a Git y la terminal](/clases/2017-10-30/2017-10-30.md)
 
 ---
 
