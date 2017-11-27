@@ -6,6 +6,7 @@
 - [Intro a Git y la terminal](/clases/2017-10-30/2017-10-30.md)
 - [Intro HTML](/clases/2017-11-13/2017-11-13.md)
 - [Intro CSS](/clases/2017-11-20/2017-11-20.md)
+- [Box Model](/clases/2017-11-27/2017-11-27.md)
 
 ---
 
