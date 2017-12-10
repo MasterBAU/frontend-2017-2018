@@ -8,6 +8,7 @@
 - [Intro CSS](/clases/2017-11-20/2017-11-20.md)
 - [Box Model](/clases/2017-11-27/2017-11-27.md)
 - [Float & Position](/clases/2017-12-04/2017-12-04.md)
+- [Flexbox](/clases/2017-12-10/2017-12-10.md)
 
 ---
 
