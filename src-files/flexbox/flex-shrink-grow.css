@@ -1,23 +1,25 @@
+body {
+  font-family: "Times New Roman", Times, serif !important; }
+
 .container {
   display: flex;
-}
+  justify-content: space-between; }
 
 .box {
-  /* flex: 1 1 auto; */
-  flex-grow: 0;
-  flex-shrink: 0;
-  flex-basis: auto;
-
+  flex: 0 0 300px;
   padding: 25px;
-  text-align: center;
-}
+  text-align: center; }
 
-.box1 { background-color: aqua }
-.box2 { background-color: salmon }
-.box3 { background-color: orange }
-.box4 { background-color: blanchedalmond }
+.box1 {
+  background-color: #fe0; }
 
-/* .box1 {
-  flex-basis: 450px;
-  flex-grow: 0;
-} */
+.box2 {
+  background-color: #c0ffee; }
+
+.box3 {
+  background-color: red; }
+
+.box4 {
+  background-color: orange; }
+
+/*# sourceMappingURL=flex-shrink-grow.css.map */

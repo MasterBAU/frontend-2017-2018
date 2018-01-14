@@ -1,0 +1,24 @@
+$c-primary: #fe0;
+$c-secondary: #c0ffee;
+$c-accent: red;
+$c-subtle: orange;
+
+$f-sans-serif: 'Arial, Helvetica, sans-serif';
+$f-serif: 'Times New Roman', Times, serif;
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  flex: 0 0 300px;
+
+  padding: 25px;
+  text-align: center;
+}
+
+.box1 { background-color: $c-primary; }
+.box2 { background-color: $c-secondary; }
+.box3 { background-color: $c-accent; }
+.box4 { background-color: $c-subtle; }
