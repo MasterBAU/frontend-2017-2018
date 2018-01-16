@@ -1,0 +1,18 @@
+.siteHeader {
+  &-container {
+    background-color: $c-secondary;
+    display: flex;
+  }
+
+  &-logo {
+    flex: 0 0 auto;
+  }
+
+  &-title {
+    color: black;
+    flex: 1 1 auto;
+    line-height: 2;
+    margin: 0;
+    text-align: center;
+  }
+}
