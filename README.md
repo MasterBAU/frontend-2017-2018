@@ -11,7 +11,7 @@
 - [Flexbox](/clases/2017-12-10/2017-12-10.md)
 - [Sass](/clases/2018-01-15/2018-01-15.md)
 - [Responsive Web Design](/clases/2018-01-22/2018-01-22.md)
-- [Arquitectura CSS](/clases/2018-01-22/2018-01-29.md)
+- [Arquitectura CSS](/clases/2018-01-29/2018-01-29.md)
 
 ---
 
