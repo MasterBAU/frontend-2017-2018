@@ -2,12 +2,16 @@
 
 Maquetar un formulario para poner buscar un vehiculo de segunda mano: 
 
-- **Transacción**: Alquiler | Compra | Compartir
-- **Zona**: Texto libre
-- **Tipo de inmueble**: Vivienda | Obra nueva
-- **Numero de habitaciones**
-- **Superficie**: Dese 60m2 | Dese 80m2 | Dese 100m2 | Dese 120m2
-- **Extras**: Parking | Ascensor | Terraza | Piscina | Trastero
-- **Precio**:  Desde | Hasta
-- **Finaciación** Si | No
-- Botones:  Buscar y Cancelar
+- **Marca**: Audi | BMW | Ford | Volkswagen
+- **Modelo**: Texto libre
+- **Tipo de coche**: Nuevo | Usado
+- **Carrocería**: Berlina | Familiar | Coupe | 4x4
+- **Año de fabricacion**: Desde - Hasta
+- **Kilometros**
+- **Numero de puertas**
+- **Extras**: ABS | Aire Acondicionado | Faros LED | Ventanas electricas | Control de crusero
+- **Color**: Rojo | Negro | Azul | Blanco | Verde | Naranja
+- **Precio**:  Desde - Hasta
+- **Financiación**: Si | No
+- Boton **Buscar** 
+- Boton **Cancelar** 

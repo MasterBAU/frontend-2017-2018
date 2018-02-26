@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+        label {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Get Form</h1>
+    <form method="get">
+        <p>
+            <label for="get-post">Nombre:</label>
+<input type="text" id="get-post" name="name" />
+        </p>
+        <p>
+            <label for="get-comment">Comentario</label>
+            <textarea id="get-comment" name="comment"></textarea>
+        </p>
+        
+        <button>Enviar</button>
+
+        <p>
+            <label for=“food”>Food</label>
+            <select id="groups" name="groups">
+                <optgroup label="fruits">
+                    <option>Banana</option>
+                    <option selected>Cherry</option>
+                    <option>Lemon</option>
+                </optgroup>
+            
+                <optgroup label="vegetables">
+                    <option>Carrot</option>
+                    <option>Eggplant</option>
+                    <option>Potato</option>
+                </optgroup>
+            </select>
+        </p>
+    </form>
+</body>
+</html>
