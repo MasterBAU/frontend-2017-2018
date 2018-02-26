@@ -13,6 +13,7 @@
 - [Responsive Web Design](/clases/2018-01-22/2018-01-22.md)
 - [Arquitectura CSS](/clases/2018-01-29/2018-01-29.md)
 - [Background](/clases/2018-02-12/2018-02-12.md)
+- [Formularios](/clases/2018-02-26/2018-02-26.md)
 
 ---
 
