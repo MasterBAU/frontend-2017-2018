@@ -14,7 +14,7 @@
 </head>
 <body>
     <h1>Post Form</h1>
-    <form method="post">
+    <form method="get">
         <p>
             <label for="name-post">Nombre:</label>
             <input type="text" id="name-post" name="name" />
@@ -23,6 +23,22 @@
             <label for="post-comment">Comentario</label>
             <textarea id="post-comment" name="comment"></textarea>
         </p>
+
+        <fieldset>
+            <legend>Marca</legend>
+            <div>
+                <label for="bmw">BMW</label><input type="checkbox" id="bmw" name="marca" value="bmw">
+            </div>
+            <div>
+                <label for="ford">Ford</label><input type="checkbox" id="ford" name="marca" value="ford">
+            </div>
+            <div>
+                <label for="audi">Audi</label><input type="checkbox" id="audi" name="marca" value="audi">
+            </div>
+            <div>
+                <label for="renault">Renault</label><input type="checkbox" id="renault" name="marca" value="renault">
+            </div>   
+        </fieldset>
 
         <button>Enviar</button>
     </form>

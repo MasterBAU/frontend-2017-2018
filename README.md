@@ -14,6 +14,7 @@
 - [Arquitectura CSS](/clases/2018-01-29/2018-01-29.md)
 - [Background](/clases/2018-02-12/2018-02-12.md)
 - [Formularios](/clases/2018-02-26/2018-02-26.md)
+- [Ejercicio Práctico](/clases/2018-03-05/2018-03-05.md)
 
 ---
 
